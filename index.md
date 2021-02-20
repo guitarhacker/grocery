@@ -2,6 +2,22 @@
 
 [Shop For Groceries](Shop-For-Groceries.html)
 
+[Checkout Groceries](Checkout-Groceries.html)
+
+[Pay For Groceries](Pay-For-Groceries.html)
+
+[Verify Age](Verify-Age.html)
+
+[Bag Groceries](Bag-Groceries.html)
+
+[Kart Bagged Groceries](Kart-Bagged-Groceries.html)
+
+[Register](Register.html)
+
+[Login](Login.html)
+
+[Logout](Logout.html)
+
 You can use the [editor on GitHub](https://github.com/guitarhacker/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
